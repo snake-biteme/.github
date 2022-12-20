@@ -14,5 +14,5 @@ Tech stack: <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRQV
 - Movement instructions were mutations sent from the controller through a subscription.
 
 ## DevOps and Infrastructure
-Tech stck: <img src="https://archive.org/download/github.com-actions-starter-workflows_-_2020-01-25_22-21-15/cover.jpg" width="24px" title="Github Actions" /> &nbsp; | &nbsp; <img src="https://pbs.twimg.com/profile_images/1473756532827246593/KRgw2UkV_400x400.jpg" width="24px" height="24px" title="aws"/> 
+Tech stack: <img src="https://archive.org/download/github.com-actions-starter-workflows_-_2020-01-25_22-21-15/cover.jpg" width="24px" title="Github Actions" /> &nbsp; | &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="24px" height="24px" title="aws"/> 
 - the whole app is deployed on AWS, the two FE deployed on S3 and distributed through CloudFront
