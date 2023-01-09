@@ -17,4 +17,4 @@ Tech stack: <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRQV
 
 ## DevOps and Infrastructure
 Tech stack: <img src="https://archive.org/download/github.com-actions-starter-workflows_-_2020-01-25_22-21-15/cover.jpg" width="24px" title="Github Actions" /> &nbsp; | &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="24px" height="24px" title="aws"/> 
-- the whole app is deployed on AWS, the two FE deployed on S3 and distributed through CloudFront
+- the whole app is deployed on AWS using Cloud Formation, the two FE deployed on S3 and distributed through CloudFront
