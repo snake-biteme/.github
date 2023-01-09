@@ -13,6 +13,8 @@ Tech stack: <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRQV
 - The interesting part about this app is that it has no BE in the traditional sense, but leverages AWS AppSync, a fully managed GraphQL server to handle all the connections. Under the hood, it uses WebSocket technology, which gives the app a real-time feel. 
 - Movement instructions were mutations sent from the controller through a subscription.
 
+![architecture](https://user-images.githubusercontent.com/63497846/211324001-08dc85f4-4637-45da-a397-0fb662c5a682.png)
+
 ## DevOps and Infrastructure
 Tech stack: <img src="https://archive.org/download/github.com-actions-starter-workflows_-_2020-01-25_22-21-15/cover.jpg" width="24px" title="Github Actions" /> &nbsp; | &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="24px" height="24px" title="aws"/> 
 - the whole app is deployed on AWS, the two FE deployed on S3 and distributed through CloudFront
